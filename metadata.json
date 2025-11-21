@@ -1,0 +1,5 @@
+{
+  "name": "GymOS",
+  "description": "A premium, Apple-inspired internal management system for modern gyms. Manages members, memberships, payments, and attendance with a clean and fluid user experience.",
+  "requestFramePermissions": []
+}
